@@ -1,8 +1,7 @@
 [B]2.6.1 2016-10-05[/B]
 [LIST]
-[*]Bump API to Update 12/One Tamriel
+[*]Increment API version for ESO 2.6 (One Tamriel). No other changes.
 [/LIST]
-No other changes
 
 [B]2.5.2 2016-09-25[/B]
 [LIST]
