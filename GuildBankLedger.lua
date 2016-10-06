@@ -2,7 +2,7 @@ local LAM2 = LibStub("LibAddonMenu-2.0")
 
 local GuildBankLedger = {}
 GuildBankLedger.name            = "GuildBankLedger"
-GuildBankLedger.version         = "2.5.2"
+GuildBankLedger.version         = "2.6.1"
 GuildBankLedger.savedVarVersion = 2
 GuildBankLedger.default = {
       enable_guild  = { true, true, true, true, true }

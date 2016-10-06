@@ -1,7 +1,7 @@
 ## Title: Guild Bank Ledger
-## Description: Guild Bank Ledger version 2.5.2
+## Description: Guild Bank Ledger version 2.6.1
 ## Author: ziggr
-## APIVersion: 100016
+## APIVersion: 100017
 ## SavedVariables: GuildBankLedgerVars
 ## OptionalDependsOn: LibAddonMenu-2.0
 
